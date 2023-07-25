@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python & SQL
 
--Currently undertaking my Masters in Data Science @ Salford University with an approx. May 2023 finish date. Working part-time as a pricing analyst for Amber Car Leasing. 
+-Graduated with a Masters in Data Science @ Salford University. Working as a Data Analyst for Amber Car Leasing. 
 
 <!---
 Bradon101/Bradon101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
